@@ -1,0 +1,87 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<Trainee_project.Models.User>;
+@{
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Start page</title>
+    </head>
+<body>
+
+    <link href="~/css/FileUploadPage.css" rel="stylesheet" />
+    <h1>If You want to add something to the table, please upload .csv file</h1>
+
+    <form class="buttonClass" method="post" action="/FileUpload/Upload/" enctype="multipart/form-data">
+        <input name="file" type="file" accept=".csv" onchange="form.submit()" />
+
+    </form>
+
+
+
+    <div class="container">
+        <table class="sortable" id="Table">
+            <thead>
+                <tr class="header">
+                    <th onclick="sortTable(0);">
+                        @Html.DisplayNameFor(model => model[0].Name)
+
+                        <input class="nameSearch" type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+                    </th>
+                    <th onclick="sortTable(1);">
+                        @Html.DisplayNameFor(model => model[0].DateOfBirth)
+                    </th>
+                    <th onclick="sortTable(2);">
+                        @Html.DisplayNameFor(model => model[0].Married)
+                    </th>
+                    <th onclick="sortTable(3);">
+                        @Html.DisplayNameFor(model => model[0].Phone)
+                        <input class="Search" type="text" id="numberInput" onkeyup="functionForNumberSearch()" placeholder="Search for phone numbers">
+                    </th>
+                    <th onclick="sortTable(4);">
+                        @Html.DisplayNameFor(model => model[0].Salary)
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateOfBirth)
+                        </td>
+                        <td>
+                            @item.Married
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Phone)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Salary)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "FileUpload", new { id = item.Id })|
+                            @Html.ActionLink("Delete", "Delete", "FileUpload", new { id = item.Id })
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+
+    </div>
+   
+    <script src="~/script/SearchScript.js"></script>
+    <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+</body>
+
+</html>
+
+

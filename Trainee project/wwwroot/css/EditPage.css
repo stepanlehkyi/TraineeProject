@@ -1,0 +1,29 @@
+﻿
+.form {
+  text-align:center;
+}
+h2 {
+    position: center;
+    text-align:center;
+    left: 415px;
+    top: 185px;
+    font: 1em "typewriter", sans-serif;
+}
+
+label {
+    margin-bottom:10px;
+    padding-right: 10px;
+}
+
+input {
+    background-color: #4CAF50;
+    color: white;
+    padding: 4px;
+    border: none;
+    cursor: pointer;
+    clear: both;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+
+

@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Trainee_project.Models.User;
+@{
+    
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Start page</title>
+</head>
+<body>
+    <link href="~/css/EditPage.css" rel="stylesheet" />
+    <h2>Edit</h2>
+    <form method="post" class="form">
+        @Html.AntiForgeryToken()
+        <h4>
+            User
+        </h4>
+        <div >
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(j => j.Name)
+        </div>
+        <div >
+            @Html.LabelFor(model => model.DateOfBirth)
+            @Html.EditorFor(j => j.DateOfBirth)
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Married)
+            @Html.EditorFor(j => j.Married)
+        </div>
+        <div >
+            @Html.LabelFor(model => model.Phone)
+            @Html.EditorFor(j => j.Phone)
+        </div>
+        <div >
+            @Html.LabelFor(model => model.Salary)
+            @Html.EditorFor(j => j.Salary)
+        </div>
+
+        <button action="submit">Save</button>
+    </form>
+</body>
+</html>

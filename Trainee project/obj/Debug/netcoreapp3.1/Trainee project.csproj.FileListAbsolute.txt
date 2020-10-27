@@ -1,0 +1,143 @@
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.exe
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.deps.json
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.runtimeconfig.json
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.runtimeconfig.dev.json
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.pdb
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.csprojAssemblyReference.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.AssemblyInfoInputs.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.AssemblyInfo.cs
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorTargetAssemblyInfo.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\staticwebassets\Trainee project.StaticWebAssets.Manifest.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\staticwebassets\Trainee project.StaticWebAssets.xml
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.pdb
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.genruntimeconfig.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.Views.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.Views.pdb
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorAssemblyInfo.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorAssemblyInfo.cs
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.TagHelpers.input.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.TagHelpers.output.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorCoreGenerate.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorTargetAssemblyInfo.cs
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.Views.pdb
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.csproj.CopyComplete
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Razor\Views\FileUpload\FileUploadPage.cshtml.g.cs
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.csproj.CoreCompileInputs.cache
+C:\Users\STEPAN\source\repos\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.exe
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.deps.json
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.runtimeconfig.json
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.runtimeconfig.dev.json
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.pdb
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.Views.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Trainee project.Views.pdb
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.csprojAssemblyReference.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.AssemblyInfoInputs.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.AssemblyInfo.cs
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorAssemblyInfo.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorAssemblyInfo.cs
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.TagHelpers.input.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.TagHelpers.output.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorCoreGenerate.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Razor\Views\FileUpload\FileUploadPage.cshtml.g.cs
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorTargetAssemblyInfo.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.RazorTargetAssemblyInfo.cs
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.Views.pdb
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.csproj.CopyComplete
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\staticwebassets\Trainee project.StaticWebAssets.Manifest.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\staticwebassets\Trainee project.StaticWebAssets.xml
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.dll
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.pdb
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.genruntimeconfig.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Razor\Views\FileUpload\Edit.cshtml.g.cs
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.csproj.CoreCompileInputs.cache
+C:\Users\Stepan.Lehkyi\Downloads\Trainee project (1)\Trainee project\Trainee project\obj\Debug\netcoreapp3.1\Trainee project.MvcApplicationPartsAssemblyInfo.cache
